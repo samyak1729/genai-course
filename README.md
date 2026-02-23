@@ -1,4 +1,4 @@
-# genai-course
+# ai engineering from first principles
 trying to find geniune resource to learn about genai is hard. everything is vendor promotion. trying to compile resource I wish I had
 
 ## RAG
@@ -10,3 +10,5 @@ trying to find geniune resource to learn about genai is hard. everything is vend
 
 ## Chatbots and API calls
 1. [A simple chatbot built with FastAPI backend, Streamlit frontend, and OpenRouter API integration.](https://github.com/samyak1729/simple-chatbot)
+2. [Mirascope](https://mirascope.com/): a anti-llm framewrok. fuck langchain. say yes to indepenence.
+3. Blog on Prompt caching: [link](https://sankalp.bearblog.dev/how-prompt-caching-works/)
