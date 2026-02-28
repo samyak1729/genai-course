@@ -1,10 +1,10 @@
-# ai engineering from first principles
-trying to find geniune resource to learn about genai is hard. everything is vendor promotion. trying to compile resource I wish I had
+# AI Engineering From First Principles
+Trying to find geniune resource to learn about genai is hard. everything is vendor promotion. Trying to look past that and tryingto find resources that will help you think about systems from first principles
 
 ## RAG
 
 ### Information retrival 
-1. https://youtube.com/playlist?list=PL3MdBlfjtKa7_MSIlIKp3oPrttVNZCXtG&si=XPnq4rCX47VaDQ5W
+1. [Stanford IR](https://youtube.com/playlist?list=PL3MdBlfjtKa7_MSIlIKp3oPrttVNZCXtG&si=XPnq4rCX47VaDQ5W)
 2. [Introduction to IR by Manning](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
 3. [Build a websearch enginer](https://youtube.com/playlist?list=PL98nY_tJQXZm-emQjN52ZLFMcwrpushSh&si=_VYvsjVuKPkwlWUz)
 
@@ -16,3 +16,11 @@ trying to find geniune resource to learn about genai is hard. everything is vend
 ### No frameworks AI engineering
 - LiteLLM
 - Pydantic is all you need
+
+### Observability
+- [What is Opentelemetry](https://opentelemetry.io/docs/what-is-opentelemetry/)
+- [For Python](https://opentelemetry.io/docs/languages/python/)
+- [Example showing Traces, Logs and Metrics for FastAPI app](https://github.com/blueswen/fastapi-observability)
+
+### MLOps
+- Kubeflow
